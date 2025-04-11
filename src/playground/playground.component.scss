@@ -1,0 +1,31 @@
+.playground{
+  width: 100vw;
+  height: 100vh;
+
+  text-align: center;
+}
+
+.trigger-btn{
+
+  background-color: orange;
+  border: 2px solid chocolate;
+  border-radius: 20px;
+
+  color: #333;
+
+  padding: 16px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.example{
+  display: flex;
+
+  flex-direction: column;
+
+  gap: 15px;
+
+  justify-content: center;
+  height: 100%;
+  align-items: center;
+}
